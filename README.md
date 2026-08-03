@@ -1,5 +1,5 @@
 # e-portfoglio
-MSC AI - UNIVERSITY OF ESSEX
+
 # Yasmin Ferrera
 
 ## MSc Artificial Intelligence Student
@@ -30,15 +30,7 @@ Statistical analysis and visualization using R.
 ### Customer Churn Prediction
 Predictive modelling using WEKA.
 
-## Skills
 
-- Python
-- R
-- SQL
-- Power BI
-- WEKA
-- Machine Learning
-- Data Cleaning
 
 ## Contact
 
